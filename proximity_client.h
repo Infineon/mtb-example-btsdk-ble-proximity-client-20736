@@ -1,5 +1,5 @@
 /*
- * Copyright 2021-2022, Cypress Semiconductor Corporation (an Infineon company) or
+ * Copyright 2021-2024, Cypress Semiconductor Corporation (an Infineon company) or
  * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
  *
  * This software, including source code, documentation and related
@@ -41,7 +41,7 @@
 #define VS_GATT_CLIENT_HOST_INFO	0x10
 #define VS_FINDME_CLIENT_HOST_INFO	0x11
 
-// define alert levels as per BT SIG
+// define alert levels as per Bluetooth SIG
 #define NO_ALERT					0
 #define MEDIUM_ALERT				1
 #define HIGH_ALERT					2
